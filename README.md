@@ -68,7 +68,7 @@ docker-compose up --build -d
 - ✅ **REST API design** with FastAPI and auto-generated Swagger docs
 - ✅ **Docker Compose** multi-service orchestration
 - ✅ **Cross-container networking** — frontend calls backend by service name
-- ✅ **Full-stack containerization** from scratch
+- ✅ **Full-stack containerization** from scratch.
  
 ---
  
